@@ -14,6 +14,14 @@ gihub page ( 科学): https://genjixyz.github.io/bilibili-parallax-banner/
 
 coding page : https://2nktve.coding-pages.com/
 
+clone : 
+```js 
+git clone https://github.com/genjiXYZ/bilibili-parallax-banner.git
+npm i 
+npm run serve
+```
+
+
 ## info
 
 
