@@ -1,5 +1,7 @@
 name: npm publish by action
-on: push
+on:
+  push:
+    branches: [ lib ]
 
 jobs:
   publish:
