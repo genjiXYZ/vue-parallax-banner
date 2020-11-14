@@ -12,7 +12,7 @@
 
 gihub page ( 科学): https://genjixyz.github.io/bilibili-parallax-banner/
 
-coding page : 
+coding page : https://2nktve.coding-pages.com/
 
 ## info
 
