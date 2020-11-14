@@ -4,7 +4,7 @@
 
 ## vue-parallax-banner
 
-![](https://img.shields.io/badge/version-v0.066-9cf.svg)   ![](https://github.com/genjiXYZ/vue-parallax-banner/workflows/npm%20publish%20by%20action/badge.svg)  
+![](https://img.shields.io/badge/version-v0.067-9cf.svg)   ![](https://github.com/genjiXYZ/vue-parallax-banner/workflows/npm%20publish%20by%20action/badge.svg)  
 
 [![npm](https://nodei.co/npm/vue-parallax-banner.png)](https://www.npmjs.com/package/vue-parallax-banner)
 
