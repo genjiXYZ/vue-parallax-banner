@@ -1,7 +1,8 @@
 name: npm publish by action
 on:
   push:
-    branches: [ lib ]
+    branches:
+      - lib
 
 
 jobs:
