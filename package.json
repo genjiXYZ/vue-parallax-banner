@@ -1,6 +1,6 @@
 {
   "name": "vue-parallax-banner",
-  "version": "0.0.63",
+  "version": "0.0.64",
   "private": false,
   "author": "genjixyz",
   "main": "lib/index.js",

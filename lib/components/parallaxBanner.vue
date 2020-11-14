@@ -158,6 +158,7 @@ export default {
   overflow: hidden;
   min-height: 155px;
   user-select: none;
+pointer-events: painted;
 }
 
 .layer {
@@ -183,6 +184,7 @@ img {
   border-style: none;
   will-change: transform;
   user-select: none;
+  pointer-events: none;
 
 }
 </style>
