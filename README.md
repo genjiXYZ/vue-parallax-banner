@@ -1,23 +1,22 @@
-# vue-paralax-banner
 
 
 
 
-
-## 仿 bilibili banner
-
-
-
+## vue-parallax-banner
+  看到B站 banner图 秋 感觉挺好看的! 
+  之前做过`滚动的paralax`所以自己做一下试试!
+  (趁着有图,赶紧弄个.有图很关键.以前没有图时候自己ps一点抠累死了.比跟我说ai抠图,精度还是差点),
+  
 ## demo
 demo 图片版权归bilibili所有,此demo 仅为个人学习测试使用 如有侵权请联系 895939059@qq.com 删除.
 
-gihub page ( 科学): https://genjixyz.github.io/bilibili-parallax-banner/
+gihub page ( 科学): https://genjixyz.github.io/vue-parallax-banner/
 
 coding page : https://2nktve.coding-pages.com/
 
 clone : 
 ```js 
-git clone https://github.com/genjiXYZ/bilibili-parallax-banner.git
+git clone https://github.com/genjiXYZ/vue-parallax-banner.git
 npm i 
 npm run serve
 ```
@@ -80,7 +79,7 @@ export default {
   },
   data() {
     return {
-      layerConfig: {
+      localConfig: {
         image: [],      // 图片链接  有顺序的  第一个 z-index = 1  ,第二个 z-index = 2  
         height: `250px`, //  图片宽
         width: `3000px`, // 图片高

@@ -157,6 +157,7 @@ export default {
   position: relative;
   overflow: hidden;
   min-height: 155px;
+  user-select: none;
 }
 
 .layer {
@@ -169,6 +170,8 @@ export default {
   justify-content: center;
   align-items: center;
   transition: all ease-in-out 0s;
+  user-select: none;
+
 }
 
 img {
@@ -179,5 +182,7 @@ img {
   vertical-align: middle;
   border-style: none;
   will-change: transform;
+  user-select: none;
+
 }
 </style>
