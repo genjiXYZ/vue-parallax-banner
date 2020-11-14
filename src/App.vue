@@ -1,19 +1,39 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <parallaxBanner :ParallaxConfig="layerConfig" />
+
+
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    // HelloWorld,
+  },
+  data() {
+    return {
+      layerConfig: {
+        image: [],
+        height: `250px`,
+        width: `3000px`,
+        bezier: [0, 0, 1, 1],
+        translateOffset: [0, 100, 120, 150, 250, 300],
+        blurOffset: [7, 0, 5, 5, -3, -6],
+        pic: "",
+      },
+    };
+  },
+  created() {
+    for (let index = 0; index < 6; index++) {
+      let localImage = require(`./assets/nav${index}.png`);
+      this.layerConfig.image.push(localImage);
+    }
+
+    this.layerConfig.pic = [require(`./assets/nav1.png`),require(`./assets/big2.png`),require(`./assets/big3.png`),require(`./assets/big4.png`)];
+  },
+};
 </script>
 
 <style>
@@ -24,5 +44,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
 }
+*{margin: 0;}
 </style>
