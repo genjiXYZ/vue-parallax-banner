@@ -4,14 +4,14 @@
 
 ## vue-parallax-banner
 
-![](https://img.shields.io/badge/version-v0.063-9cf.svg)   ![](https://github.com/genjiXYZ/vue-parallax-banner/workflows/npm%20publish%20by%20action/badge.svg)  
+![](https://img.shields.io/badge/version-v0.064-9cf.svg)   ![](https://github.com/genjiXYZ/vue-parallax-banner/workflows/npm%20publish%20by%20action/badge.svg)  
 
 [![npm](https://nodei.co/npm/vue-parallax-banner.png)](https://www.npmjs.com/package/vue-parallax-banner)
 
   看到B站 banner图 秋 感觉挺好看的! 
   之前做过`滚动的paralax`所以自己做一下试试!
   (趁着有图,赶紧弄个.有图很关键.以前没有图时候自己ps一点抠累死了.别跟我说ai抠图,得看情况),
-  
+
   火狐浏览器有点bug  卡顿  应该是没写 -moz 或者 就不好说了 修复中 ... 
 
 ## demo
