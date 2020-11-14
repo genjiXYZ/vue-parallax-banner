@@ -12,11 +12,7 @@
   之前做过`滚动的paralax`所以自己做一下试试!
   (趁着有图,赶紧弄个.有图很关键.以前没有图时候自己ps一点抠累死了.别跟我说ai抠图,得看情况),
 
-
-
-
-
-
+![](https://picgo.genji.xyz/bilibili-banner/demo.gif)
 
 ## demo
 
