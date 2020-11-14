@@ -20,7 +20,7 @@ demo 图片版权归bilibili所有,此demo 仅为个人学习测试使用 如有
 
 gihub page ( 科学): https://genjixyz.github.io/vue-parallax-banner/
 
-coding page : https://2nktve.coding-pages.com/
+coding page : http://dflcva.coding-pages.com/
 
 clone : 
 ```js 
