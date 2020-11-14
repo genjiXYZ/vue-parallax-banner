@@ -4,9 +4,7 @@
   "private": false,
   "author": "genjixyz",
   "main": "lib/index.js",
-  "files": [
-    "lib"
-  ],
+  "files": ["lib"],
   "repository": {
     "type": "git",
     "url": "https://github.com/genjiXYZ/vue-parallax-banner"
