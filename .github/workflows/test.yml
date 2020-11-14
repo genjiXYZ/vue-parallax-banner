@@ -11,6 +11,4 @@ jobs:
       - uses: actions/checkout@v2
         
       - name: Run a one-line script
-        run: |
-          ls,
-          echo test, and deploy your project.
+        run: ls
