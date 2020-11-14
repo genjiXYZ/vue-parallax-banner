@@ -1,3 +1,4 @@
+name: npm publish by action
 on: push
 
 jobs:
