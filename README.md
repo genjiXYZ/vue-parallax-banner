@@ -9,6 +9,7 @@
 
 
 ## demo
+demo 图片版权归bilibili所有,此demo 仅为个人学习测试使用 如有侵权请联系 895939059@qq.com 删除.
 
 gihub page ( 科学): https://genjixyz.github.io/bilibili-parallax-banner/
 
