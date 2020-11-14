@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/version-v0.063-9cf.svg)   ![](https://github.com/genjiXYZ/vue-parallax-banner/workflows/npm%20publish%20by%20action/badge.svg)  
 
-[![npm](https://nodei.co/npm/vue-parallax-banner.png)](https://nodei.co/npm/vue-parallax-banner.png)
+[![npm](https://nodei.co/npm/vue-parallax-banner.png)](https://www.npmjs.com/package/vue-parallax-banner)
 
   看到B站 banner图 秋 感觉挺好看的! 
   之前做过`滚动的paralax`所以自己做一下试试!
